@@ -1,0 +1,12 @@
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/cookie-ecf1bfd0c1ce3a95.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/libcookie-ecf1bfd0c1ce3a95.rlib: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/cookie-ecf1bfd0c1ce3a95.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs:

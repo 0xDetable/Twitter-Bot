@@ -1,0 +1,13 @@
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/net2-53271da478b3dae0.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/net2-53271da478b3dae0.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs:

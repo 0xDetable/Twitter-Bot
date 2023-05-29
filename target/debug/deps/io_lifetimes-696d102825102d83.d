@@ -1,0 +1,10 @@
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/io_lifetimes-696d102825102d83.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/portability.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/traits.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/example_ffi.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/raw.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/views.rs
+
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/io_lifetimes-696d102825102d83.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/portability.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/traits.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/example_ffi.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/raw.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/views.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/portability.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/traits.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/example_ffi.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/raw.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.10/src/views.rs:

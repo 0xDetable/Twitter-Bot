@@ -1,0 +1,11 @@
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/cookie_store-7e7d7aa740277b84.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/Users/macbookpro/rust-practices/twitter_bot/target/debug/deps/cookie_store-7e7d7aa740277b84.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs:
